@@ -22,7 +22,7 @@ setup(name='neti',
       install_requires=[
           'PyYAML',
           'kazoo == 1.3.1',
-          'requests == 0.11.2',
+          'requests == 2.20.0',
           'boto == 2.14.0',
           'ipaddress == 1.0.6'
       ]
